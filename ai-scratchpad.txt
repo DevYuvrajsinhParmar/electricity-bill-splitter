@@ -1,0 +1,23 @@
+So I have initialized the project with next and shadcn
+
+as you can see the project name its electricity-bill-splitter
+
+now i have made this project for the learning purpose of the next and stuff
+
+what i am saying is that as a react dev my current stack is html css js bootstrap react tailwind mui formik yup axios redux toolkit react router some third party libraries than some ts not like too much just like i have to give type thats all than shadcn i have used it couple of times so i know what it is and stuff 
+
+for this project i want to use the complete alternative of all of the tech stack and i meant the better one so suggest me best one for the next app 
+
+here is what i want to do 
+
+I live in joint family of 12 my family and my other 2 uncle's family every 2 months the light bill comes like JAN-FEB MAR-APR like that
+
+we have one main meter and 3 sub meter for each floor we have 3 floors
+
+now every two months i have the past readings and current readings than the total bill that came based on that i can count the difference between past and current as the current one will be bigger than the past that way i have the count of the unit consumed on each floor i have the total unit now each floor unit and the total bill that came so i just use the simple cross multiplication to determine how much money each one has to pay than i capture the photo and send that to my 2 uncles with caption Light bill September - October 2026 
+
+i have attached a photo of the lightbill for the reference
+
+so i want to automate this process what i want to do is lets say one time i have to add the past readings than i will enter the current readings that will give me the difference of each floor total unit consumed and than i will enter the total amount of the bill and it will be separated into 3 bills based on the how many units have consumed
+
+i can send the photo and the automated message on whatsapp
